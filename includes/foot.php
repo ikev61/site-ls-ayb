@@ -70,7 +70,7 @@
       <div class="row">
         <div class="col-md-12 col-lg-12">
           <div class="aheto-footer-1__cr margin-lg-50t margin-lg-30b margin-sm-0t margin-sm-0b text-center">
-            <p style="color: grey;" class="aheto-footer-1__cr-text">Designed - <a target="_blank" style="color:red" href="https://bintapro.com/cafeasokoro">Café Asokoro</a> - 2024</p>
+            <p style="color: grey;" class="aheto-footer-1__cr-text">Designed - <a target="_blank" style="color:red" href="https://ikev61.logicant.com/">iKev61</a> - 2024</p>
           </div>
         </div>
         <div class="col-md-6 col-lg-5 text-right" style="display:none;">
