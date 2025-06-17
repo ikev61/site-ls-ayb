@@ -12,7 +12,7 @@
   <div class="aheto-tab js-tab aheto-tab--business ">
     <div class="aheto-tab__content ">
       <div class="aheto-tab__box js-tab-box  active aheto-tab__box--overlay-1">
-        <img class="aheto-tab__box-bg js-bg" src="/img/home-page/banner-1.png" alt="Background">
+        <img class="aheto-tab__box-bg js-bg" src="/img/home-page/banner-1.jpg" alt="Background">
         <div class="aheto-tab__box-inner">
           <div class="container">
             <div class="row margin-lg-10t">

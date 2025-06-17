@@ -349,21 +349,31 @@
 				'name' => 'Upper Benue River Basin Development Authority',
 				'img' => '/img/inner-pages/clients/benue-river.jpg'
 			],
+
+			[
+				'name' => 'Federal Ministry of Works',
+				'img' => '/img/inner-pages/clients/SealNigerianPresident.png'
+			],
+			[
+				'name' => 'International Commitee of Red Cross',
+				'img' => '/img/inner-pages/clients/recross.png'
+			],
+
 			[
 				'name' => 'Federal Ministry of Mining and Solid Mineral',
-				'img' => '/img/inner-pages/clients/benue-river.jpg'
+				'img' => '/img/inner-pages/clients/msm.jpg'
 			],
 			[
 				'name' => 'Federal Ministry of Water Resources',
-				'img' => '/img/inner-pages/clients/benue-river.jpg'
+				'img' => '/img/inner-pages/clients/water-r.jpg'
 			],
 			[
 				'name' => 'Federal High Court of Justice, Abuja',
-				'img' => '/img/inner-pages/clients/benue-river.jpg'
+				'img' => '/img/inner-pages/clients/Federal-High-Court-logo-e1716585713737.webp'
 			],
 			[
 				'name' => 'Federal Ministry of Agricultural',
-				'img' => '/img/inner-pages/clients/benue-river.jpg'
+				'img' => '/img/inner-pages/clients/fma.jpg'
 			]
 		),
 		'words' => array(
@@ -569,7 +579,7 @@
 		'gold' => [
 			'url' => '?nav=products&pcode=gold',
 			'title' => 'Gold',
-			'cover' => '/img/products/gold/cover.png',//600x300
+			'cover' => '/img/products/gold/cover.jpg',//600x300
 			'banner' => '/img/products/gold/banner.jpg',//1921x387
 			'markup' => 'markup/gold.php',
 			'detail' => '',
