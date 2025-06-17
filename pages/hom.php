@@ -166,39 +166,121 @@
     </div>
   </div>
   <div class="bg-wrap-c-light">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 about-img margin-lg-55t" style="padding-bottom:50px">
-          <div class="aheto-single-img   h-100 ">
-            <img src="/img/home-page/document.jpg" class=" h-100  w-100" alt="single img">
-          </div>
+  <div class="container">
+    <!-- Section 1: About Us -->
+    <div class="row">
+      <div class="col-md-6 about-img margin-lg-55t" style="padding-bottom:50px">
+        <div class="aheto-single-img h-100">
+          <img src="/img/home-page/color/coal_mine.avif" class="h-100 w-100" alt="Mineral Field">
         </div>
-        <div class="col-md-6">
-          <div class="row margin-lg-120t margin-lg-50b margin-md-60t margin-sm-0t padding-sm-45t margin-sm-25b">
-            <div class="col-md-12 col-lg-11 offset-lg-1">
-              <div class="row">
-                <div class="col-md-12">
-                  <div class="aheto-heading  aheto-heading--classic aheto-heading--b-c2">
-                    <h6 class="aheto-heading__subtitle t-uppercase t-bold">About us</h6>
-                    <p class="aheto-heading__desc">Established in Nigeria in the year 2011 by an enthusiasts Ayuba Wanda, our company has grown into a reputable and trusted player in multiple industries, driven by our commitment to excellence and customer satisfaction. Our core business activities encompass a diverse range of products and services, catering to various sectors and meeting the unique needs of our clients. With a dedicated team of professionals and state of the-art facilities, we aim to create a lasting impact in the market and contribute positively to Nigeria's economic growth.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="row margin-lg-30t margin-lg-30b">
-                <div class="col-md-12">
-                  <div class="aheto-btn-container  ">
-                    <a href="/?nav=about" style="" class="aheto-btn  aheto-btn--alter    aheto-btn--shadow  ">
-                      MORE ABOUT US
-                    </a>
-                  </div>
-                </div>
-              </div>
+      </div>
+      <div class="col-md-6">
+        <div class="row margin-lg-120t margin-lg-50b margin-md-60t margin-sm-0t padding-sm-45t margin-sm-25b">
+          <div class="col-md-12 col-lg-11 offset-lg-1">
+            <div class="aheto-heading aheto-heading--classic aheto-heading--b-c2">
+              <h6 class="aheto-heading__subtitle t-uppercase t-bold">About Us</h6>
+              <h3 class="aheto-heading__desc">
+                AYUDIDIBE MEGA VENTURE (NIG.) LIMITED is a trusted name in Africa’s mineral sector. With roots deep in Nigeria’s mineral-rich lands and a vision for global excellence, our company delivers premium solid minerals through world-class processing and transparent procurement.
+              </h3>
             </div>
           </div>
         </div>
       </div>
     </div>
+
+    <!-- Section 2: Innovation & Quality -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="row margin-lg-50t margin-lg-50b margin-md-60t margin-sm-0t padding-sm-45t">
+          <div class="col-md-12 col-lg-11 offset-lg-1">
+            <div class="aheto-heading aheto-heading--classic aheto-heading--b-c2">
+              <h6 class="aheto-heading__subtitle t-uppercase t-bold">Innovation & Quality</h6>
+              <h3 class="aheto-heading__desc">
+                To overcome challenges like inconsistency and low-grade exports, we’re investing in advanced mineral processing facilities that meet international benchmarks. This ensures buyers receive the exact specifications they demand—nothing less.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 about-img" style="padding-bottom:50px">
+        <div class="aheto-single-img h-100">
+          <img src="/img/home-page/color/mining-equipment-list.png" class="h-100 w-100" alt="Processing Plant">
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 3: Our Commitment -->
+    <div class="row">
+      <div class="col-md-6 about-img" style="padding-bottom:50px">
+        <div class="aheto-single-img h-100">
+          <img src="/img/home-page/color/mining-logistics-solutions-scaled.jpg" class="h-100 w-100" alt="Shipping and Export">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="row margin-lg-50t margin-lg-50b margin-md-60t margin-sm-0t padding-sm-45t">
+          <div class="col-md-12 col-lg-11 offset-lg-1">
+            <div class="aheto-heading aheto-heading--classic aheto-heading--b-c2">
+              <h6 class="aheto-heading__subtitle t-uppercase t-bold">Our Commitment</h6>
+              <h3 class="aheto-heading__desc">
+                We’re committed to removing uncertainty from mineral sourcing in Africa. With full regulatory compliance, stringent quality assurance, and transparent documentation, we make importing minerals reliable and stress-free.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 4: Why Choose Us -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="row margin-lg-50t margin-lg-50b margin-md-60t margin-sm-0t padding-sm-45t">
+          <div class="col-md-12 col-lg-11 offset-lg-1">
+            <div class="aheto-heading aheto-heading--classic aheto-heading--b-c2">
+              <h6 class="aheto-heading__subtitle t-uppercase t-bold">Why Choose Us</h6>
+              <h3 class="aheto-heading__desc">
+                With AYUDIDIBE MEGA VENTURE (NIG.) LIMITED, you’re not just buying minerals—you’re building a long-term partnership. Our capabilities include:
+              </h3>
+              <ul style="list-style-type:disc;margin-left: 20px;font-size: 24px;">
+                <li>Modern processing facilities ensuring top-grade outputs</li>
+                <li>Timely and efficient logistics operations</li>
+                <li>Customized supply strategies tailored to your needs</li>
+                <li>Global delivery with local expertise</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 about-img" style="padding-bottom:50px">
+        <div class="aheto-single-img h-100">
+          <img src="/img/home-page/color/5ff347f914e5321df1a6b13c_iStock-467635312.jpg" class="h-100 w-100" alt="Global Export Service">
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 5: Join Us -->
+    <div class="row">
+      <div class="col-md-6 about-img" style="padding-bottom:50px">
+        <div class="aheto-single-img h-100">
+          <img src="/img/home-page/color/Endeavour-Mining.jpg" class="h-100 w-100" alt="Join Us">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="row margin-lg-50t margin-lg-50b margin-md-60t margin-sm-0t padding-sm-45t">
+          <div class="col-md-12 col-lg-11 offset-lg-1">
+            <div class="aheto-heading aheto-heading--classic aheto-heading--b-c2">
+              <h6 class="aheto-heading__subtitle t-uppercase t-bold">Join Us</h6>
+              <h3 class="aheto-heading__desc">
+                We invite international buyers to partner with AYUDIDIBE MEGA VENTURE (NIG.) LIMITED and tap into Africa’s abundant mineral resources—safely, reliably, and profitably. Let us be your trusted guide in navigating Nigeria’s mineral potential.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
+</div>
+
   <div class="large-container-wrap" style="display: none;">
     <div class="row margin-lg-110t margin-md-70t margin-sm-45t">
       <div class="col-md-12">
