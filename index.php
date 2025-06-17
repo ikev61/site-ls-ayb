@@ -3,18 +3,18 @@
 	$data = array (
 		'contact' => array (
 			[
-				'state' => 'Abuja',
-				'city' => 'Federal Capital Territory',
-				'address' => 'No. 7A Calaber Street, Area 7, Garki-Abuja FCT, Nigeria',
+				'state' => 'Adamawa',
+				'city' => 'Yola',
+				'address' => 'No. 16 POWA Shop, Karewa Police Station, Jimeta-Yola, Adamawa State',
 				'phone' => '+234 803 699 1369',
 				'phone2' => '+234 803 699 1369, +234 827 899 922',
 				'email' => 'info@ayudidibe.com',
 				'time' => 'Mon-fri: 09am - 05pm'
 			],
 			[
-				'state' => 'Adamawa',
-				'city' => 'Yola',
-				'address' => 'No. 16, Powa Shop, by Karewa Police Station, Jimeta-Yola, Adamawa State, Nigeria',
+				'state' => 'Abuja',
+				'city' => 'Federal Capital Territory',
+				'address' => 'No. 7A Calaber Street, Area 7, Garki-Abuja FCT, Nigeria',
 				'phone' => '+234 803 362 9410',
 				'phone2' => '+234 803 362 9410, +234 805 221 5517',
 				'email' => 'info@ayudidibe.com',
@@ -268,9 +268,9 @@
 				'title' => 'Projects',
 				'page' => 'prj'
 			],
-			'certs'=>[
-				'title' => 'Documents',
-				'page' => 'crt'
+			'products'=>[
+				'title' => 'Products',
+				'page' => 'prod'
 			],
 			'team'=>[
 				'title' => 'Team',
@@ -347,6 +347,22 @@
 			],
 			[
 				'name' => 'Upper Benue River Basin Development Authority',
+				'img' => '/img/inner-pages/clients/benue-river.jpg'
+			],
+			[
+				'name' => 'Federal Ministry of Mining and Solid Mineral',
+				'img' => '/img/inner-pages/clients/benue-river.jpg'
+			],
+			[
+				'name' => 'Federal Ministry of Water Resources',
+				'img' => '/img/inner-pages/clients/benue-river.jpg'
+			],
+			[
+				'name' => 'Federal High Court of Justice, Abuja',
+				'img' => '/img/inner-pages/clients/benue-river.jpg'
+			],
+			[
+				'name' => 'Federal Ministry of Agricultural',
 				'img' => '/img/inner-pages/clients/benue-river.jpg'
 			]
 		),
@@ -548,6 +564,190 @@
 			],
 		),
 	);
+
+	$products = array(
+		'gold' => [
+			'url' => '?nav=products&pcode=gold',
+			'title' => 'Gold',
+			'cover' => '/img/products/gold/cover.png',//600x300
+			'banner' => '/img/products/gold/banner.jpg',//1921x387
+			'markup' => 'markup/gold.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/gold/features/gold-3.webp',
+				'/img/products/gold/features/GettyImages-1249932038-3832d19219044edda498e9e0fa53f7c3.jpg',
+				'/img/products/gold/features/Untitled-design-2020-08-25T095243.658.png',
+				'/img/products/gold/features/unnamed.webp',
+				'/img/products/gold/features/gold-discord.jpg',
+			]
+		],
+		'mt' => [
+			'url' => '?nav=products&pcode=mt',
+			'title' => 'Monazite Thorium',
+			'cover' => '/img/products/mt/cover.jpg',//600x300
+			'banner' => '/img/products/mt/banner.jpg',//1921x387
+			'markup' => 'markup/mt.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/mt/features/06492880017271927029925.jpg',
+				'/img/products/mt/features/monazite-crystal-300x300.jpg',
+				'/img/products/mt/features/monazite-sand-mining-business-nigeria-africa-business-plan.jpeg',
+				'/img/products/mt/features/thorium.jpg',
+				'/img/products/mt/features/monazite51663a.jpeg',
+			]
+		],
+		'caz' => [
+			'url' => '?nav=products&pcode=caz',
+			'title' => 'Cassiterite',
+			'cover' => '/img/products/caz/cover.jpg',//600x300
+			'banner' => '/img/products/caz/banner.jpg',//1921x387
+			'markup' => 'markup/caz.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/caz/features/Cassiterite.jpg',
+				'/img/products/caz/features/Cassiterite-jmix08-05a.jpg',
+				'/img/products/caz/features/hero-cassiterite851.png',
+				'/img/products/caz/features/images.jpeg',
+				'/img/products/caz/features/249652-61.jpg',
+			]
+		],
+		'tat' => [
+			'url' => '?nav=products&pcode=tat',
+			'title' => 'Titanium Dioxide (TiO₂)',
+			'cover' => '/img/products/tat/cover.jpg',//600x300
+			'banner' => '/img/products/tat/banner.jpg',//1921x387
+			'markup' => 'markup/tat.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/tat/features/AdobeStock_461904692-scaled.jpeg',
+				'/img/products/tat/features/ilmenite_423946594_1000.jpg',
+				'/img/products/tat/features/lmenite-ore-Picture-obtained-from-virtual-museum-of-the-University-of-Huelva_Q320.jpg',
+				'/img/products/tat/features/rutile.jpg',
+				'/img/products/tat/features/Titanium-White-2A.jpg',
+			]
+		],
+		'iron' => [
+			'url' => '?nav=products&pcode=iron',
+			'title' => 'Iron Ore (Fe)',
+			'cover' => '/img/products/iron/cover.jpg',//600x300
+			'banner' => '/img/products/iron/banner.jpg',//1921x387
+			'markup' => 'markup/iron.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/iron/features/0f6b1ec4-66b8-11eb-bc00-908c10a5850a_image_hires_125607.webp',
+				'/img/products/iron/features/blog-2-Hematite_1707918282.webp',
+				'/img/products/iron/features/images.jpeg',
+				'/img/products/iron/features/istockphoto-2150879681-612x612.jpg',
+				'/img/products/iron/features/5192937.jpg',
+			]
+		],
+		'col' => [
+			'url' => '?nav=products&pcode=col',
+			'title' => 'Columbite – Niobium-Tantalum Ore',
+			'cover' => '/img/products/col/cover.jpg',//600x300
+			'banner' => '/img/products/col/banner.jpg',//1921x387
+			'markup' => 'markup/col.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/col/features/coltan-tantalite-columbite-ore-high-quality.jpg',
+				'/img/products/col/features/Columbite-75444.jpg',
+				'/img/products/col/features/images.jpeg',
+				'/img/products/col/features/item_74190.jpg',
+				'/img/products/col/features/rock7134a_tantalite.jpg',
+			]
+		],
+		'zar' => [
+			'url' => '?nav=products&pcode=zar',
+			'title' => 'Zirconium (Zircon Mineral)',
+			'cover' => '/img/products/zar/cover.jpg',//600x300
+			'banner' => '/img/products/zar/banner.jpg',//1921x387
+			'markup' => 'markup/zar.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/zar/features/225.jpeg',
+				'/img/products/zar/features/32677416715_24ca948815_z.jpg',
+				'/img/products/zar/features/cover.jpg',
+				'/img/products/zar/features/images (1).jpeg',
+				'/img/products/zar/features/images.jpeg',
+			]
+		],
+		'lead' => [
+			'url' => '?nav=products&pcode=lead',
+			'title' => 'Lead Ore (Galena - PbS)',
+			'cover' => '/img/products/lead/cover.jpg',//600x300
+			'banner' => '/img/products/lead/banner.jpg',//1921x387
+			'markup' => 'markup/lead.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/lead/features/3-s2.0-B9780128205853000016-f01-39-9780128205853.webp',
+				'/img/products/lead/features/images.jpeg',
+				'/img/products/lead/features/istockphoto-1323182170-612x612.jpg',
+				'/img/products/lead/features/lead-2.jpeg',
+				'/img/products/lead/features/Untitled-design-33.webp',
+			]
+		],
+		'zinc' => [
+			'url' => '?nav=products&pcode=zinc',
+			'title' => 'Zinc Ore (Sphalerite - ZnS)',
+			'cover' => '/img/products/zinc/cover.jpg',//600x300
+			'banner' => '/img/products/zinc/banner.jpg',//1921x387
+			'markup' => 'markup/zinc.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/zinc/features/images.jpeg',
+				'/img/products/zinc/features/mgs-resin-jack-zinc-rich-sphalerite-specimen.jpg',
+				'/img/products/zinc/features/Zinc_fragment_sublimed_and_1cm3_cube.jpg',
+				'/img/products/zinc/features/zinc-ore0-0222120001609157874.jpg.webp',
+				'/img/products/zinc/features/mgs-sphalerite-chalcopyrite-crystals-specimen.jpg',
+			]
+		],
+		'lime' => [
+			'url' => '?nav=products&pcode=lime',
+			'title' => 'Limestone (CaCO₃)',
+			'cover' => '/img/products/lime/cover.jpg',//600x300
+			'banner' => '/img/products/lime/banner.jpg',//1921x387
+			'markup' => 'markup/lime.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/lime/features/ImageForArticle_1236(1).webp',
+				'/img/products/lime/features/iStock-183830933.jpg',
+				'/img/products/lime/features/limestone.webp',
+				'/img/products/lime/features/limestone-big-lump.webp',
+				'/img/products/lime/features/limestone-turkish.jpg',
+			]
+		],
+		'lit' => [
+			'url' => '?nav=products&pcode=lit',
+			'title' => 'Lithium Ore (Spodumene – LiAl(SiO₃)₂)',
+			'cover' => '/img/products/lit/cover.jpg',//600x300
+			'banner' => '/img/products/lit/banner.jpg',//1921x387
+			'markup' => 'markup/lit.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/lit/features/fragments-Lithium-metal.webp',
+				'/img/products/lit/features/lithium-1600x1200_0.jpg',
+				'/img/products/lit/features/lithium-minerals.jpg',
+				'/img/products/lit/features/lithium-ore-2.jpg',
+				'/img/products/lit/features/kunzite-scaled.jpg',
+			]
+		],
+		'coal' => [
+			'url' => '?nav=products&pcode=coal',
+			'title' => 'Thermal & Metallurgical Coal',
+			'cover' => '/img/products/coal/cover.jpg',//600x300
+			'banner' => '/img/products/coal/banner.jpg',//1921x387
+			'markup' => 'markup/coal.php',
+			'detail' => '',
+			'features' => [
+				'/img/products/coal/features/coal-ore.png',
+				'/img/products/coal/features/images.jpeg',
+				'/img/products/coal/features/strange-uses-for-coal-390x260.jpg',
+				'/img/products/coal/features/Tavantolgoi-coal-mine-Gobi-Mongolia.webp',
+				'/img/products/coal/features/energy-coal-pile.jpg',
+			]
+		]
+	);
+
 	$page = 'hom.php';$title = 'Ayudidibe Mega Ventures (Nig) Ltd';
 	if(isset($_GET['nav']) and isset($data['pages'][$_GET['nav']])) {
 		$page = "{$data['pages'][$_GET['nav']]['page']}.php";

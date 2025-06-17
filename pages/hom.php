@@ -398,9 +398,9 @@
           <div class="col-md-12">
             <div class="aheto-heading aheto-heading--classic aheto-heading--b-c2">
               <h3 class="aheto-heading__title t-bold">The company has an approximate turnover more than <span>₦3.5 Billion</span> Naira since 2011</h3>
-              <p class="aheto-heading__desc">Has acquired assets worth over <span>₦1.6 Billion</span> Naira (today's value) in Nigeria and has a fixed working capital of over <span>₦850 Million</span> Naira</p>
+              <p class="aheto-heading__desc">Has acquired assets worth over <span>₦5 Billion</span> Naira (today's value) in Nigeria and has a fixed working capital of over <span>₦850 Million</span> Naira</p>
               <p class="aheto-heading__desc">
-                It has also established branch offices in some major state capitals including Abuja and Adamawa. And have successuly delivered values to the following organizations.
+                It has also established branch offices in some major state capitals including Adamawa, Abuja and Jos. And have successuly delivered values to the following organizations.
               </p>
             </div>
           </div>
