@@ -593,7 +593,7 @@
 		],
 		'mt' => [
 			'url' => '?nav=products&pcode=mt',
-			'title' => 'Monazite Thorium',
+			'title' => 'Monazite (Thorium-Rich)',
 			'cover' => '/img/products/mt/cover.jpg',//600x300
 			'banner' => '/img/products/mt/banner.jpg',//1921x387
 			'markup' => 'markup/mt.php',
@@ -608,7 +608,7 @@
 		],
 		'caz' => [
 			'url' => '?nav=products&pcode=caz',
-			'title' => 'Cassiterite',
+			'title' => 'Cassiterite (Tin Ore)',
 			'cover' => '/img/products/caz/cover.jpg',//600x300
 			'banner' => '/img/products/caz/banner.jpg',//1921x387
 			'markup' => 'markup/caz.php',
