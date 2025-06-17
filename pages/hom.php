@@ -175,7 +175,7 @@
         </div>
       </div>
       <div class="col-md-6">
-        <div class="row margin-lg-120t margin-lg-50b margin-md-60t margin-sm-0t padding-sm-45t margin-sm-25b">
+        <div class="row margin-lg-50t margin-lg-50b margin-md-60t margin-sm-0t padding-sm-45t margin-sm-25b">
           <div class="col-md-12 col-lg-11 offset-lg-1">
             <div class="aheto-heading aheto-heading--classic aheto-heading--b-c2">
               <h6 class="aheto-heading__subtitle t-uppercase t-bold">About Us</h6>

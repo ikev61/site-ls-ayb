@@ -81,9 +81,8 @@
         Whether you're in ceramics, foundry, or high-tech manufacturing, we offer dependable Zirconium supply solutions. Contact our export team today for pricing, specifications, and logistics options.
       </p>
       <p>
-        📧 <strong>Email:</strong> sales@[yourcompany].com<br>
-        📞 <strong>Phone:</strong> +234-XXX-XXX-XXXX<br>
-        🌐 <strong>Website:</strong> www.[yourcompany].com/zirconium
+        📧 <strong>Email:</strong> <?php echo $data['contact'][0]['email']?><br>
+        📞 <strong>Phone:</strong> <?php echo $data['contact'][0]['phone']?><br>
       </p>
     </div>
   </div>
