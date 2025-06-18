@@ -1,4 +1,4 @@
-<div class="aheto-header-1__toolbar">
+<div class="aheto-header-1__toolbar" style="border:none">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -21,37 +21,16 @@
             </a>
           </div>
         </div>
-        <p class="aheto-header-1__toolbar-text" style="text-align:center;">Ayudidibe Mega Ventures Nig. Ltd. | General Contractor | RC: 1003047</p>
+        <p class="aheto-header-1__toolbar-text" style="text-align:center;">
+          <a href="/" class="karma-logo karma-logo--dark main-header__logo">
+          <img src="/img/logo.png" alt="" class="karma-logo__image">
+        </a>
+          <h5 class="text-center">AYUDIDIBE MEGA VENTURES NIG LTD<br><small>Mining & General Contractor | RC: 1003047</small></h5></p>
       </div>
     </div>
   </div>
 </div>
-<div class="aheto-header-1__main">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-4">
-        <a href="/" class="karma-logo karma-logo--dark main-header__logo">
-          <img src="/img/logo.png" alt="" class="karma-logo__image">
-        </a>
-      </div>
-      <div class="col-sm-8">
-        <div class="aheto-header-1__details">
-          <div class="aheto-header-1__detail">
-            <i class="aheto-header-1__detail-icon icon ion-android-map"></i>
-            <h6 class="aheto-header-1__detail-text"><?php echo $data['contact'][0]['address']?></h6>
-          </div>
-          <div class="aheto-header-1__detail">
-            <i class="aheto-header-1__detail-icon icon ion-clock"></i>
-            <h6 class="aheto-header-1__detail-text"><?php echo $data['contact'][0]['time']?></h6>
-          </div>
-          <div class="aheto-header-1__detail">
-            <i class="aheto-header-1__detail-icon icon ion-ios-telephone"></i>
-            <a class="aheto-header-1__detail-link" href="tel:<?php echo $data['contact'][0]['phone']?>"><?php echo $data['contact'][0]['phone']?></a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="aheto-header-1__main" style="margin-top:40px">
   <div class="aheto-header-1__nav-wrap">
     <div class="container">
       <div class="row">

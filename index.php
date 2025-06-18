@@ -374,6 +374,10 @@
 			[
 				'name' => 'Federal Ministry of Agricultural',
 				'img' => '/img/inner-pages/clients/fma.jpg'
+			],
+			[
+				'name' => '',
+				'img' => ''
 			]
 		),
 		'words' => array(
