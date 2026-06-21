@@ -9,8 +9,9 @@
   </header>
 
   <main class="container" style="max-width:1100px;margin:20px auto;padding:0 20px">
-    <h1>Welcome</h1>
-    <p>Will be live soon</p>
+    <h1>Projects</h1>
+    <p>Selected projects include consultancy, construction, and rehabilitation works for various government and institutional clients (2012–2022).</p>
+    <p>For full project list see the documents: <a href="/document/documents-amv.pdf">documents-amv.pdf</a></p>
   </main>
 
   <?php require_once __DIR__ . '/includes/foot.php'; ?>
